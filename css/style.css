@@ -41,6 +41,6 @@
 }
 
 /* -----------------DEBUG----------------- */
-.debug .container {
-    border: 1px dashed red;
+.debug .col-auto {
+    border: 2px solid black;
 }
